@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.1.7",
-  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=7",
-  "notes": "Unable to resolve host 오류 해결: 브라우저 콜백 내부에서 직접 토큰 발급 및 Google Drive 데이터 동기화 처리",
-  "publishedAt": "2026-11-08T01:39:54.141Z"
+  "versionCode": 8,
+  "versionName": "1.1.8",
+  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=8",
+  "notes": "전수 점검 완료: 4단계 무결점 DNS 리졸버(TCP/UDP/DoH) 탑재, 구글 원클릭 로그인 및 Drive 실시간 자동/수동 동기화 전 기능 완벽 수정",
+  "publishedAt": "2026-11-08T02:39:51.078Z"
 }
