@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.1.4",
-  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=4",
-  "notes": "Google 연동 수정: 모바일에서 로그인 후 연동이 풀리던 문제 해결 + 앱 안에서 바로 Google 계정 선택 지원",
-  "publishedAt": "2026-11-08T00:37:20.216Z"
+  "versionCode": 5,
+  "versionName": "1.1.5",
+  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=5",
+  "notes": "Google 연동 완전 원클릭 지원: 클라이언트 ID 입력 불필요, PC와 100% 동일한 원클릭 브라우저 연동 탑재",
+  "publishedAt": "2026-11-08T00:54:48.016Z"
 }
