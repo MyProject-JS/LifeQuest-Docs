@@ -1,7 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.1.12",
-  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=12",
-  "notes": "안드로이드 스마트폰 홈 화면 오늘의 퀘스트 위젯 추가",
-  "publishedAt": "2026-11-08T08:12:04.726Z"
+  "versionCode": 11,
+  "versionName": "1.1.11",
+  "commit": "527997ce913ba0a589f357b0e0a1f7ea6a3833f1",
+  "builtAt": "2026-11-08T05:00:15Z"
 }
