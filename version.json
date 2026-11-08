@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.1.9",
-  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=9",
-  "notes": "모바일 하위 퀘스트 가독성 개선: 우측 수정 버튼들을 평소에는 숨겨 제목이 세로로 찌그러지지 않게 하고, [⋯] 버튼을 누르면 수정/하위추가/메모/삭제가 열리도록 개선",
-  "publishedAt": "2026-11-08T04:11:33.428Z"
+  "versionCode": 12,
+  "versionName": "1.1.12",
+  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=12",
+  "notes": "안드로이드 스마트폰 홈 화면 오늘의 퀘스트 위젯 추가",
+  "publishedAt": "2026-11-08T08:12:04.726Z"
 }
