@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.1.5",
-  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=5",
-  "notes": "Google 연동 완전 원클릭 지원: 클라이언트 ID 입력 불필요, PC와 100% 동일한 원클릭 브라우저 연동 탑재",
-  "publishedAt": "2026-11-08T00:54:48.016Z"
+  "versionCode": 6,
+  "versionName": "1.1.6",
+  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=6",
+  "notes": "Google 로그인 Failed to fetch 오류 완전 해결: 안드로이드 네이티브 네트워크 엔진으로 토큰 발급 및 드라이브 연동 처리",
+  "publishedAt": "2026-11-08T01:19:45.010Z"
 }
