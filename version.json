@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.1.6",
-  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=6",
-  "notes": "Google 로그인 Failed to fetch 오류 완전 해결: 안드로이드 네이티브 네트워크 엔진으로 토큰 발급 및 드라이브 연동 처리",
-  "publishedAt": "2026-11-08T01:19:45.010Z"
+  "versionCode": 7,
+  "versionName": "1.1.7",
+  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=7",
+  "notes": "Unable to resolve host 오류 해결: 브라우저 콜백 내부에서 직접 토큰 발급 및 Google Drive 데이터 동기화 처리",
+  "publishedAt": "2026-11-08T01:39:54.141Z"
 }
