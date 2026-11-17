@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "1.1.32",
-  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=32",
-  "notes": "모험가 방치형 원정 & 펫 육성 연동 + 안드로이드 위젯 추가 오류 수정 및 바로 체크 기능",
-  "publishedAt": "2026-11-17T06:29:55.987Z"
+  "versionCode": 33,
+  "versionName": "1.1.33",
+  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=33",
+  "notes": "모바일 앱 렌더링 오류 수정 및 구글 드라이브 삭제 동기화 + 홈 화면 위젯 개선",
+  "publishedAt": "2026-11-17T06:45:24.690Z"
 }
