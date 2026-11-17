@@ -1,6 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "1.1.22",
-  "commit": "93b018e662705832f4d5f2c74607672d1db2cc47",
-  "builtAt": "2026-11-09T10:22:41Z"
+  "versionCode": 31,
+  "versionName": "1.1.31",
+  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=31",
+  "notes": "6종 테마 동적 전환 및 UI 개선 업데이트",
+  "publishedAt": "2026-11-17T03:46:25.218Z"
 }
