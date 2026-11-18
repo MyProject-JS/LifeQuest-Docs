@@ -1,7 +1,7 @@
 {
-  "versionCode": 35,
-  "versionName": "1.1.35",
-  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=35",
-  "notes": "모바일·웹 상단 불필요 버튼(📌 고정, 一 최소화, ✕ 닫기) 숨김 처리",
-  "publishedAt": "2026-11-17T07:56:15.000Z"
+  "versionCode": 36,
+  "versionName": "1.1.36",
+  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=36",
+  "notes": "안드로이드 위젯 하위 카테고리 계층 구조 표시 및 위젯 내 접기/펴기(▼/▶) · 일괄 체크 지원",
+  "publishedAt": "2026-11-18T01:13:00.000Z"
 }
