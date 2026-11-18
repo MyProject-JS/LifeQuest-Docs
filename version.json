@@ -1,7 +1,7 @@
 {
-  "versionCode": 42,
-  "versionName": "1.1.42",
-  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=42",
-  "notes": "모험가 탭 수동 로그라이크 지역 지도 탐험 및 턴제 전투 시스템 추가",
-  "publishedAt": "2026-11-18T05:32:03.820Z"
+  "versionCode": 43,
+  "versionName": "1.1.43",
+  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=43",
+  "notes": "카와이 미소녀 다마고치 펫 4종(5모션) 및 다마고치 룸 UI 적용",
+  "publishedAt": "2026-11-18T08:20:11.662Z"
 }
