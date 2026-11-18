@@ -1,7 +1,7 @@
 {
-  "versionCode": 43,
-  "versionName": "1.1.43",
-  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=43",
-  "notes": "카와이 미소녀 다마고치 펫 4종(5모션) 및 다마고치 룸 UI 적용",
-  "publishedAt": "2026-11-18T08:20:11.662Z"
+  "versionCode": 44,
+  "versionName": "1.1.44",
+  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=44",
+  "notes": "독립 미소녀 다마고치 육성 엔진 분리 및 미니게임·상점·스탯진화·일기 시스템 구현",
+  "publishedAt": "2026-11-18T08:52:09.819Z"
 }
