@@ -1,7 +1,7 @@
 {
-  "versionCode": 44,
-  "versionName": "1.1.44",
-  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=44",
-  "notes": "독립 미소녀 다마고치 육성 엔진 분리 및 미니게임·상점·스탯진화·일기 시스템 구현",
-  "publishedAt": "2026-11-18T08:52:09.819Z"
+  "versionCode": 45,
+  "versionName": "1.1.45",
+  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=45",
+  "notes": "다마고치 미소녀 펫 4종(20모션) 굵은 외곽선 말랑 SD 디시콘 그림체 업그레이드",
+  "publishedAt": "2026-11-18T10:22:51.190Z"
 }
