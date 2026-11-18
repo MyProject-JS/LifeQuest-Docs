@@ -1,7 +1,7 @@
 {
-  "versionCode": 41,
-  "versionName": "1.1.41",
-  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=41",
-  "notes": "Android 15+ Edge-to-Edge(더 넓은 화면) 인셋 적용 및 R8 DEX 코드 최적화 활성화",
-  "publishedAt": "2026-11-18T05:11:18.172Z"
+  "versionCode": 42,
+  "versionName": "1.1.42",
+  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=42",
+  "notes": "모험가 탭 수동 로그라이크 지역 지도 탐험 및 턴제 전투 시스템 추가",
+  "publishedAt": "2026-11-18T05:32:03.820Z"
 }
