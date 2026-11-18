@@ -1,7 +1,7 @@
 {
-  "versionCode": 37,
-  "versionName": "1.1.37",
-  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=37",
-  "notes": "방치형 원정 및 1초 자동 저장 타이머 제거(퀘스트 입력 방해 현상 해결) · 위젯 하위 카테고리 접기/펴기 유지",
-  "publishedAt": "2026-11-18T01:51:00.000Z"
+  "versionCode": 39,
+  "versionName": "1.1.39",
+  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=39",
+  "notes": "동기화 무음 처리 및 변경 항목만 부분 새로고침 적용",
+  "publishedAt": "2026-11-18T02:51:29.130Z"
 }
