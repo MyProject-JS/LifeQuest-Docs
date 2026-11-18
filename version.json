@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
-  "versionName": "1.1.39",
-  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=39",
-  "notes": "동기화 무음 처리 및 변경 항목만 부분 새로고침 적용",
-  "publishedAt": "2026-11-18T02:51:29.130Z"
+  "versionCode": 40,
+  "versionName": "1.1.40",
+  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=40",
+  "notes": "백그라운드 CPU·GPU·네트워크·디스크 리소스 최적화",
+  "publishedAt": "2026-11-18T03:29:22.581Z"
 }
