@@ -1,7 +1,7 @@
 {
-  "versionCode": 40,
-  "versionName": "1.1.40",
-  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=40",
-  "notes": "백그라운드 CPU·GPU·네트워크·디스크 리소스 최적화",
-  "publishedAt": "2026-11-18T03:29:22.581Z"
+  "versionCode": 41,
+  "versionName": "1.1.41",
+  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=41",
+  "notes": "Android 15+ Edge-to-Edge(더 넓은 화면) 인셋 적용 및 R8 DEX 코드 최적화 활성화",
+  "publishedAt": "2026-11-18T05:11:18.172Z"
 }
