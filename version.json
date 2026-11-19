@@ -1,7 +1,7 @@
 {
-  "versionCode": 47,
-  "versionName": "1.1.47",
-  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=47",
-  "notes": "앱 업데이트 경로 수정(Play/APK 분기) 및 위젯 체크 구글 드라이브 백그라운드 즉시 백업",
-  "publishedAt": "2026-11-19T05:38:18.794Z"
+  "versionCode": 48,
+  "versionName": "1.1.48",
+  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=48",
+  "notes": "Android 상단 흰색 바 제거(Edge-to-Edge/SystemBars 다크 배경 통합)",
+  "publishedAt": "2026-11-19T05:57:37.180Z"
 }
