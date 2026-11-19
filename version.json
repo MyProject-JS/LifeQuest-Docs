@@ -1,7 +1,7 @@
 {
-  "versionCode": 46,
-  "versionName": "1.1.46",
-  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=46",
-  "notes": "단일 캐릭터 모모 8단계 진화 및 48개 Animated WebP 모션 반영",
-  "publishedAt": "2026-11-18T12:26:46.927Z"
+  "versionCode": 47,
+  "versionName": "1.1.47",
+  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=47",
+  "notes": "앱 업데이트 경로 수정(Play/APK 분기) 및 위젯 체크 구글 드라이브 백그라운드 즉시 백업",
+  "publishedAt": "2026-11-19T05:38:18.794Z"
 }
