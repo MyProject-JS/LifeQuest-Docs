@@ -1,7 +1,7 @@
 {
-  "versionCode": 49,
-  "versionName": "1.1.49",
-  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=49",
-  "notes": "Android 상단 흰색 ActionBar(LifeQuest+스플래시 로고) 완전 제거",
-  "publishedAt": "2026-11-20T09:56:42.800Z"
+  "versionCode": 50,
+  "versionName": "1.1.50",
+  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=50",
+  "notes": "홈 위젯 행 전체 클릭 지원 및 체크 반응속도 대폭 개선(깜빡임 제거)",
+  "publishedAt": "2026-11-23T09:55:09.482Z"
 }
