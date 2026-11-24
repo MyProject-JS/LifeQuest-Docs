@@ -1,7 +1,7 @@
 {
-  "versionCode": 50,
-  "versionName": "1.1.50",
-  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=50",
-  "notes": "홈 위젯 행 전체 클릭 지원 및 체크 반응속도 대폭 개선(깜빡임 제거)",
-  "publishedAt": "2026-11-23T09:55:09.482Z"
+  "versionCode": 54,
+  "versionName": "1.1.54",
+  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=54",
+  "notes": "전반적 버그 수정: XP 중복·동기화·자정 위젯 초기화·뒤로가기·UI 개선",
+  "publishedAt": "2026-11-24T14:48:56.577Z"
 }
