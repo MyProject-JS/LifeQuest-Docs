@@ -1,7 +1,7 @@
 {
-  "versionCode": 54,
-  "versionName": "1.1.54",
-  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=54",
-  "notes": "전반적 버그 수정: XP 중복·동기화·자정 위젯 초기화·뒤로가기·UI 개선",
-  "publishedAt": "2026-11-24T14:48:56.577Z"
+  "versionCode": 55,
+  "versionName": "1.1.55",
+  "apkUrl": "https://myproject-js.github.io/LifeQuest-Docs/LifeQuest.apk?v=55",
+  "notes": "퀘스트 우선순위 설정(긴급·중요·낮음) 및 우선순위순 정렬·위젯 표시 기능 추가",
+  "publishedAt": "2026-11-27T13:11:38.929Z"
 }
